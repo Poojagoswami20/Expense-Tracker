@@ -51,4 +51,4 @@ expense-tracker/
 ```
 
 ## Author
-Your Name - First Year, B.Tech
+Pooja Goswami - First Year, B.Tech
